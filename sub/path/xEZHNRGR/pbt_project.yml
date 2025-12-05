@@ -1,0 +1,58 @@
+name: jerri.stiedemann
+description: tertiary
+version: 0.0.1
+author: ixzru86u.pujsxkew@tfpul9ro.com
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: jerristiedemann
+  parentArtefactID: team1764968344374
+  buildSystem: maven
+  author: null
+  createdAt: '2025-12-05 20:59:05'
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: 2.12.15
+  gemLibsVersion: 1.1.26
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2025-12-05 20:59:05'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2025-12-05T20:59:05.500393Z'
+  name: plibMaven
+  version: 8.16.0-SNAPSHOT
+  id: '793086470'
+  createdAt: '2025-12-05T20:59:05.500393Z'
+  type: plibMaven
+projectDependencies:
+  '391':
+    projectUID: 391
+    projectName: jared.volkman
+    repositoryPath: gitUri=http://gitserver:3000/dev_YRm8Dnp1_team_630/dev_YRm8Dnp1_project_391.git&subPath=
+    version: jared.volkman/0.22.394
+    isDefault: false
+    author: null
+    createdAt: '2025-12-05 20:59:05'
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations: {}
+projectConfigurations: {}
